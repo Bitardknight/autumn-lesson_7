@@ -1,0 +1,91 @@
+[class*="__container"]{
+    max-width: 1230px;
+    margin:0 auto;
+}
+
+.page__title{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+margin:190px 0 40px 0;
+
+}
+.page__glasses{
+    margin:0 0 60px 0;
+    
+    text-align: center;
+}
+.page__glasses img{
+    max-width: 100%;
+}
+
+.page__words{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    margin:0 0 24px 0;
+}
+.page__block{
+    font-family: "Lato";
+    font-style: normal;
+    line-height: 160%;
+    margin:0 0 48px 0;
+}
+.page__block p{
+margin:0 0 22px 0;
+    }
+.page__text{
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    margin:0 0 48px 0;
+    max-width:752px;
+}
+
+.page_box{
+    font-family: "Lato";
+    font-style: normal;
+    line-height: 160%;
+    margin:0 0 24px 0;
+}
+
+.page__section{
+    font-family: "Lato";
+    font-style: normal;
+    line-height: 160%;
+    margin:0 0 24px 0;
+}
+
+.page__item{
+    font-family: "Lato";
+    font-style: normal;
+    line-height: 160%; 
+}
+.background-text{
+    font-size: 25px;
+    color: green;
+    background: url("../img/chess.jpg") red no-repeat top right; 
+}
+
+.background-list{
+    font-size: 30px;
+    
+}
+
+ ul li{
+background: url("../img/chess.jpg")  220px 0 no-repeat;
+padding: 0 350px;
+}
+
+.background-champion{
+    font-size: 40px;
+background-repeat: repeat-x;
+background-image: url('../img/carlsen.jpg');
+background-size: 10%;
+}
